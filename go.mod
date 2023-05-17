@@ -1,3 +1,3 @@
 module github.com/stockholmr/sessions
 
-require github.com/gorilla/securecookie v1.1.1
+require github.com/stockholmr/securecookie v1.1.1
